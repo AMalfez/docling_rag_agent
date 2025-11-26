@@ -1,0 +1,8 @@
+docling
+hf-xet
+transformers
+google-genai
+google-generativeai
+python-dotenv
+chromadb
+pydantic-ai
