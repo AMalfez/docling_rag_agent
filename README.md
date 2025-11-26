@@ -3,7 +3,7 @@
 *A lightweight Retrieval-Augmented Generation (RAG) system powered by
 Gemini, ChromaDB, Docling & Pydantic-AI.*
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_ofulcxofulcxoful" src="https://github.com/user-attachments/assets/221ec4ae-8f7d-41d1-b195-b0f5a5fef105" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_9rnxjl9rnxjl9rnx" src="https://github.com/user-attachments/assets/05182ebd-3524-4f20-a780-6c28bc3ba3fe" />
 
 ## 🚀 Overview
 
